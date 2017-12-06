@@ -1,0 +1,28 @@
+{
+  "name": "wordpress-test",
+  "scripts": {},
+  "env": {
+    "CLEARDB_DATABASE_URL": {
+      "required": true
+    },
+    "DB_HOST": {
+      "required": true
+    },
+    "DB_NAME": {
+      "required": true
+    },
+    "DB_PASSWORD": {
+      "required": true
+    },
+    "DB_USER": {
+      "required": true
+    }
+  },
+  "formation": {},
+  "addons": [
+    "cleardb",
+    "sendgrid"
+  ],
+  "buildpacks": []
+}
+
