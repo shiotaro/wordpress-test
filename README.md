@@ -23,7 +23,7 @@ MYSQL_PASSWORD=hogehoge
 ## docker-compose
 
 ```
-docker-compose up -d -buil
+docker-compose up -d -build
 ```
 その後
 ```
