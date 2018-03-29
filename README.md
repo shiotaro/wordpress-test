@@ -2,7 +2,7 @@
 Herokuで動かす
 
 # Herokuで動かす
-https://qiita.com/k_shiota/items/73073d1476d64135eff0df
+https://qiita.com/k_shiota/items/73073d1476d64135eff0
 
 # Dockerで動かす
 Dockerで動かすには下記の作業が必要です
